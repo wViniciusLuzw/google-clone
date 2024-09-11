@@ -1,2 +1,2 @@
 Google
-https://wviniciusluzw.github.io/google_clone/
+https://wviniciusluzw.github.io/google-clone/
